@@ -12,4 +12,4 @@ Negative numbers have to be wrapped in parens or pwsh thinks they are switches t
 
 # Suprises while doing Get-Roman
 
-Hashtables aren't ordered by default. You can force it by adding an `[ordered]` before degining the hashtable literal.
+Hashtables aren't ordered by default. You can force it by adding an `[ordered]` before assigning the hashtable literal.
